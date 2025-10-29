@@ -1,5 +1,5 @@
 ---
 title: "Projekti"
-layout: categories
+layout: post
 permalink: /projekti/
 ---
