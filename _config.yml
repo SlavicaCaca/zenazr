@@ -33,6 +33,11 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+head:
+  - <link rel="preconnect" href="https://fonts.googleapis.com">
+  - <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  - <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
 include:
   - _pages
 
