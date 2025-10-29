@@ -1,7 +1,6 @@
 ---
 title: "Blog"
 permalink: /blog/
-layout: home
+layout: archive
 classes: wide
-show_posts: true
 ---
