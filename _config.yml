@@ -95,7 +95,8 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: false
+      read_time: true
+      show_date: true
       comments: false
       share: false
       related: false
@@ -106,6 +107,13 @@ defaults:
     values:
       layout: single
       author_profile: false
+
+# Ovo MORA biti u _config.yml
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:title/
+   
 
 category_archive:
   type: liquid
