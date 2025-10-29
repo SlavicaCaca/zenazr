@@ -3,3 +3,5 @@ main:
     url: /projekti/
   - title: "O Nama"
     url: /o_nama/
+    - title: "Blog"
+    url: /blog/
